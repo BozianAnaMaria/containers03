@@ -5,7 +5,9 @@ Aceasta lucrare de laborator familiarizează cu elementele de bază ale containe
 Instalarea Docker Desktop și verificarea funcționării acestuia.
 
 
-Executare
+# Executare
+de catre: Bozian Ana-Maria
+ziua: 02.03.2025
 1. am creat repozitoriul containers03 si l-am clonat in git hub cu ssh key
 2. am creat fisierul dockerfile cu urmatorul cotinut:
 FROM debian:latest
